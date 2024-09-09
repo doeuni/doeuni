@@ -37,71 +37,13 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black&link=https://github.com/SujinJeong">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/SujinJeong">
 
-<div align=center>
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-  .
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-</div>
-
 
 ## **🦍** Final Vocabulary
 <div align=center>
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160912_92%2Fle0790_1473666450876am8kG_JPEG%2F%25C0%25DA%25C1%25B81.jpg&type=sc960_832">
 </div>
 
-<div align=center>
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-  .
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-.
-<br>
-</div>
+
 
 ## 💬 Contact
 
