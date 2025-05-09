@@ -11,7 +11,12 @@
     <img src="https://render.gitanimals.org/lines/{doeuni}?pet-id=1" width="1000" height="120"/>
   </a>
   
-  <a href="https://www.gitanimals.org/">
-    <img src="https://render.gitanimals.org/guilds/708240072269124819/draw" width="600" height="300" alt="gitanimals"/>
-  </a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/708240072269124819/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 </div>
