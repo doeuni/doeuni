@@ -4,11 +4,7 @@
   
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=bae6fd&size=30&center=true&lines=Nice+to+meet+you&nbsp;+´◡`+&nbsp;" alt="Nice to meet you" />
-    <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{doeuni}?pet-id=1" width="1000" height="120"/>
-  </a>
-
-
+   
 
  
 </div>
@@ -29,9 +25,7 @@
         alt="gitanimals"
       />
     </a>
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{doeuni}"/>
-  </a>
+ 
   
 
 
